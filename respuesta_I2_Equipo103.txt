@@ -1,0 +1,9 @@
+Nombre Apellido
+
+Alexis Kevin Rodriguez Ossa
+Franco Acquisto
+Joaquin  Garcia
+
+c)Si, Gamma puede actualizar su fork al estado del repositorio de Alfa
+
+d)Los datos de mi repositorio no se pierden, solo se actualizan los datos que hayan sido modificados
